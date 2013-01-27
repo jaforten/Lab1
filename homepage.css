@@ -1,3 +1,17 @@
+
 body {
   background-color: #5FBECD;
+  text-align: center;
+ }
+
+p1 {
+      font-family: Georgia,serif;
+      font-style:bold;
+      color: white;
+      font-size: 70px;
+      font-weight:bold;
+} 
+
+p2 {
+  
 }
