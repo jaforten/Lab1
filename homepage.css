@@ -1,17 +1,29 @@
 
 body {
   background-color: #5FBECD;
-  text-align: center;
- }
+  text-align:center;
+ 
+}
+ 
 
 p1 {
       font-family: Georgia,serif;
-      font-style:bold;
+      
       color: white;
       font-size: 70px;
       font-weight:bold;
+      text-align: center;
+      width: 10px;
+      padding: 0px;
+      border: 0px solid white;
+      margin: 0px;
 } 
 
 p2 {
-  
+      font-family: serif, Times;
+      font-style: bold;
+      color: white;
+      font-size: 20px;
+      font-weight: bold;
+      text-align: center;
 }
