@@ -1,0 +1,54 @@
+
+
+
+ 
+
+h1{
+  color: white;
+  font-family: "sans-serif",Times;
+  font-style: bold;
+  font-size: 80px;
+  opacity: .9;
+  margin:auto;
+  padding:auto;
+}
+
+
+
+body {
+  
+  background-color: #C0C0C0;
+  text-align:center;
+  margin:auto;
+  padding:auto;
+  
+ }
+    
+ 
+  
+ 
+  p {
+      font-family: serif, Times;
+      font-style: bold;
+      color: white;
+      font-size: 20px;
+      font-weight: bold;
+      text-align: center;
+      margin: auto;
+      padding: auto;
+    
+  }
+     
+  .thumbnail {
+      float: center;
+      width:80px;
+      height:80px;
+      margin:auto;
+      padding:10px;
+    
+        
+  }
+
+
+
+          
