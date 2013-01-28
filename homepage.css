@@ -1,12 +1,18 @@
 
-body {
-  background-color: #5FBECD;
-  text-align:center;
- 
-}
+
+
  
 
-p1 {
+body {
+  
+  background-color: #5FBECD;
+  text-align:center;
+  
+ }
+    
+ 
+  
+  p1 {
       font-family: Georgia,serif;
       
       color: white;
@@ -16,14 +22,28 @@ p1 {
       width: 10px;
       padding: 0px;
       border: 0px solid white;
-      margin: 0px;
-} 
+      margin: 25px;
+  } 
 
-p2 {
+  p2 {
       font-family: serif, Times;
       font-style: bold;
       color: white;
       font-size: 20px;
       font-weight: bold;
       text-align: center;
-}
+    
+  }
+     
+  .thumbnail {
+      float: center;
+      width:100px;
+      height:90px;
+      margin:5px;
+    
+        
+  }
+
+
+
+          
