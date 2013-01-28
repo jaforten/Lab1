@@ -8,7 +8,7 @@ h1{
   font-family: "sans-serif",Times;
   font-style: bold;
   font-size: 80px;
-  opacity: .9;
+ 
   margin:auto;
   padding:auto;
 }
@@ -33,7 +33,6 @@ body {
       color: white;
       font-size: 20px;
       font-weight: bold;
-      text-align: center;
       margin: auto;
       padding: auto;
     
@@ -41,10 +40,10 @@ body {
      
   .thumbnail {
       float: center;
-      width:80px;
-      height:80px;
+      width:50px;
+      height:50px;
       margin:auto;
-      padding:10px;
+      padding:40px;
     
         
   }
