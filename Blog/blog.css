@@ -1,0 +1,49 @@
+
+
+
+.header {
+    background-color: red;
+    font-family: "sans-serif",Times;
+    font-style:bold;
+    font-size: 50px;
+    margin:0px 0px 0px 0px;
+    padding:0px;
+   
+    max-height: 80px;
+    width: 960px;
+    border:0;
+    text-align:center;
+   
+   
+}
+
+
+.quicknav{
+  background-color: black;
+  width: 960px;
+  height: 30px;
+  margin:0px 0px;
+  padding:5px;
+  border:0;
+  color: white;
+  float:left;
+  
+}
+
+
+.blog{
+  background-color: blue;
+  float:left;
+  width: 720px;
+  border:0;
+  padding:10px;
+}
+
+.navigation{
+  background-color:yellow;
+  float:right;
+  width:240px;
+  border:0;
+  margin:0 0;
+  
+}
