@@ -8,9 +8,11 @@ h1{
   font-family: "sans-serif",Times;
   font-style: bold;
   font-size: 80px;
- 
+  border: 7px solid white;
   margin:auto;
-  padding:auto;
+  padding:5px;
+  height:250px;
+  width:600px;
 }
 
 

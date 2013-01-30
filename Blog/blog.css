@@ -2,17 +2,19 @@
 
 
 .header {
+    
     background-color: red;
     font-family: "sans-serif",Times;
     font-style:bold;
-    font-size: 50px;
-    margin:0px 0px 0px 0px;
-    padding:0px;
-   
-    max-height: 80px;
-    width: 960px;
-    border:0;
+    font-size: 20px;
+    float:left;
+    margin:0px;
+    padding:20px;
+    height:50px;
+    width: 940px;
+    border:0px;
     text-align:center;
+    color: black;
    
    
 }
@@ -20,30 +22,49 @@
 
 .quicknav{
   background-color: black;
-  width: 960px;
-  height: 30px;
-  margin:0px 0px;
-  padding:5px;
-  border:0;
-  color: white;
+  font-family: "sans-serif",Times;
+  font-size:20px;
+  font-style:bold;
   float:left;
-  
+  margin:0px;
+  padding:10px;
+  width: 960px;
+  height:30px;
+  border:0px;
+  color: white;
+  text-align:left;
+ 
+ 
 }
 
 
+  
 .blog{
-  background-color: blue;
   float:left;
-  width: 720px;
-  border:0;
-  padding:10px;
+  background-color:blue;
+  
+  font-family: "sans-serif",Times;
+  font-size:20px;
+  color:black;
+  
+  width:650px;
+  border:0px;
+  padding:0px;
+  border:0px;
+  height:800px;
 }
 
 .navigation{
+
   background-color:yellow;
+  font-family: "sans-serif",Times;
+  font-size: 20px;
   float:right;
-  width:240px;
-  border:0;
-  margin:0 0;
-  
+  width:160px;
+  border:0px;
+  margin:0px;
+  height:730px;
+  padding:0px;
+
+ 
 }
