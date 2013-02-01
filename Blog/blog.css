@@ -1,6 +1,6 @@
 body{
   background-color:#ccc;
-  margin:auto;
+  margin:1px;
   
 }
 
@@ -71,27 +71,65 @@ body{
 
 .blogContainer{
     background:blue;
-    width:1140px;5    border:0px;
+    width:1140px;    
+    border:0px;
     padding:0px;
-    height:600px;
+    height:610px;
     margin:0px;
     float:left;
 }
   
 .blog{
   
-  background:white;
+  background:blue;
   
   font-family: "sans-serif",Times;
   font-size:20px;
-  color:black;
+  color:white;
   
  
 }
 
+.Entry{
+  
+  width:auto;
+  font-family:Times;
+  font-size:;
+  font-style:;
+  color:white;
+  margin:0px;
+  padding:0px;
+  border:0px;
+}
+
+.Date{
+  
+  width:auto;
+  font-family:Times;
+  font-size:;
+  font-style:;
+  color:white;
+  
+}
+
+.Content{
+  width:800px;
+  background:blue;
+  
+  font-family:Times;
+  font-size:20px;
+  font-style:bold;
+  color:red;
+  border:0px;
+  
+}
+
+
+
+
 .pageNavContainer{
    background:yellow;
-   width:208px;
+   width:200px;
    border:0px;
    margin:0px;
    height:700px;
@@ -101,11 +139,42 @@ body{
 .pageNav{
   width:auto;
   height:auto;
-  background:white;
+  background:green;
   font-family: "sans-serif",Times;
   font-size: 20px;
   border:0px;
   
+}
 
- 
+.navContent {
+  width:60px;
+  font-family:Times;
+  font-size:20px;
+  font-style:bold;
+  color:red;
+
+}
+
+.postLnks{
+  width:60px;
+  font-family:Times;
+  font-size:15px;
+  font-style:bold;
+  color:blue;
+}
+
+.aboutMe{
+  width:60px;
+  font-family:Times;
+  font-size:9px;
+  font-style:bold;
+  color:red;
+}
+
+.meContent{
+   width:60px;
+  font-family:Times;
+  font-size:8px;
+  font-style:bold;
+  color:red;
 }
