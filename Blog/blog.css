@@ -5,7 +5,7 @@ body{
 }
 
 .headerContainer{
-    background: red;
+    background: #679Fd2;
    
     height:70px;
     width:100%;
@@ -70,18 +70,19 @@ body{
 }
 
 .blogContainer{
-    background:blue;
+    background-color:#26537C;
     width:1140px;    
     border:0px;
     padding:0px;
-    height:610px;
-    margin:0px;
+    height:600px;
+    margin-right:0px;
+    margin-left:0px;
     float:left;
 }
   
 .blog{
   
-  background:blue;
+
   
   font-family: "sans-serif",Times;
   font-size:20px;
@@ -105,7 +106,7 @@ body{
 .Date{
   
   width:auto;
-  font-family:Times;
+  font-family:"sans-serif",Times;
   font-size:;
   font-style:;
   color:white;
@@ -114,12 +115,12 @@ body{
 
 .Content{
   width:800px;
-  background:blue;
+ 
   
-  font-family:Times;
+  font-family:"sans-serif",Times;
   font-size:20px;
   font-style:bold;
-  color:red;
+  color:white;
   border:0px;
   
 }
@@ -128,53 +129,70 @@ body{
 
 
 .pageNavContainer{
-   background:yellow;
-   width:200px;
+   background-color:#3C9DD0;
+   width:207px;
    border:0px;
    margin:0px;
-   height:700px;
+   height:710px;
    padding:0px;
-   float:left;
+   float:right;
+  
 }
 .pageNav{
-  width:auto;
-  height:auto;
-  background:green;
+
+  background-color:408DD2;
   font-family: "sans-serif",Times;
   font-size: 20px;
   border:0px;
-  
+  width:180px;
+  margin:0px;
+
+
 }
 
 .navContent {
   width:60px;
-  font-family:Times;
+  font-family:"sans-serif",Times;
   font-size:20px;
   font-style:bold;
-  color:red;
+  text-align:center;
+  margin:40px;
+  
+
 
 }
 
 .postLnks{
   width:60px;
-  font-family:Times;
+  font-family:"sans-serif",Times;
   font-size:15px;
   font-style:bold;
-  color:blue;
+  color:white;
+  text-align:right;
+  
 }
 
-.aboutMe{
-  width:60px;
-  font-family:Times;
-  font-size:9px;
+.aboutme{
+
+  width:40px;
+  font-family:"sans-serif",Times;
+  font-size:15px;
   font-style:bold;
-  color:red;
+  color:black;
+  text-align:right;
+  margin:50px;
+
+  
 }
 
 .meContent{
-   width:60px;
-  font-family:Times;
+   
+  font-family:"sans-serif",Times;
   font-size:8px;
   font-style:bold;
-  color:red;
+  color:black;
+  text-align:right;
+  margin:50px;
+ 
+  
 }
