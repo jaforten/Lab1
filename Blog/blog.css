@@ -1,6 +1,7 @@
 body{
   background-color:#ccc;
   margin:auto;
+  
 }
 
 .headerContainer{
@@ -68,25 +69,18 @@ body{
 
 }
 
-  
- 
- 
-  
- 
-
-
-/*.blogContainer{
-   background:blue;
-   width:70%;
-   border:0px;
-   padding:0px;
-   border:0px;
-   height:auto;
+.blogContainer{
+    background:blue;
+    width:1140px;5    border:0px;
+    padding:0px;
+    height:600px;
+    margin:0px;
+    float:left;
 }
   
 .blog{
-  float:left;
- 
+  
+  background:white;
   
   font-family: "sans-serif",Times;
   font-size:20px;
@@ -97,20 +91,21 @@ body{
 
 .pageNavContainer{
    background:yellow;
-   width:30%;
+   width:208px;
    border:0px;
    margin:0px;
-   height:730px;
+   height:700px;
    padding:0px;
+   float:left;
 }
 .pageNav{
-
- 
+  width:auto;
+  height:auto;
+  background:white;
   font-family: "sans-serif",Times;
   font-size: 20px;
-  float:right;
+  border:0px;
   
 
  
 }
-*/
